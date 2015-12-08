@@ -14,9 +14,10 @@
     <title></title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width">
+    <script src="assets/constant.ff26af33.js"></script>
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
     <link rel="stylesheet" href="app/vendor.6e12cd43.css">
-    <link rel="stylesheet" href="app/app.2d471a35.css">
+    <link rel="stylesheet" href="app/app.491ad6a3.css">
 </head>
 <body ng-app="alBookingApp">
 <!--[if lt IE 7]>
@@ -25,7 +26,7 @@
 <![endif]-->
 
 <!-- Add your site or application content here -->
-<div class="ng-scope">
+<div class="ng-scope" ng-controller="AppController">
     <!--<navbar class="ng-scope">-->
         <!--<div ng-controller="NavbarCtrl" class="navbar navbar-default navbar-static-top ng-scope">-->
             <!--<div class="container">-->
@@ -45,9 +46,7 @@
             <!--</div>-->
         <!--</div>-->
     <!--</navbar>-->
-    <header></header>
-    <div ui-view="content"></div>
-    <footer></footer>
+    <div ui-view="main"></div>
 </div>
 
 <!-- Google Analytics: change UA-XXXXX-X to be your site's ID -->
@@ -73,6 +72,6 @@
 <script src="bower_components/json3/lib/json3.min.js"></script>
 <![endif]-->
 <script src="app/vendor.3462a328.js"></script>
-<script src="app/app.1552a50b.js"></script>
+<script src="app/app.32a2c85f.js"></script>
 </body>
 </html>
