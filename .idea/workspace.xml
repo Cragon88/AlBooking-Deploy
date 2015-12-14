@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e0ed560-1e2e-4a6b-bb93-4b503e16aa86" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/images/programs/past/2012_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/images/programs/past/2013_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/images/programs/past/2013_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/images/programs/past/2014.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/images/programs/past/2014_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/images/programs/past/2015_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/images/programs/past/2015_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/src/img/ajax-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/assets/img/bird_blue_32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/assets/img/download.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/assets/img/feature-drag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/assets/img/feature-modern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/assets/img/feature-module.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/assets/img/feature-options.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/assets/img/feature-responsive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/assets/img/feature-zombie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/fonts/glyphicons-halflings-regular.68ed1dac.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/fonts/glyphicons-halflings-regular.7ad17c60.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/fonts/glyphicons-halflings-regular.e49d52e7.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/images/programs/map.06294115.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/assets/img/owl-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/src/img/owl.video.play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/fonts/raleway-black.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/fonts/raleway-black.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/fonts/raleway-black.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/fonts/raleway-black.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/fonts/raleway-light.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/fonts/raleway-light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/fonts/raleway-light.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/fonts/raleway-light.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/fonts/raleway-medium.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/fonts/raleway-medium.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/fonts/raleway-medium.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/fonts/raleway-medium.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/images/apply/spotlight.2c1d20e1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/images/apply/spotlight.98230e9e.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/assets/img/twitter_25.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/src/js/.jscsrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/src/js/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/_config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/src/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/assets/scss/_settings.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/src/scss/_theme.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/assets/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/pages/demos/animate.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/pages/docs/api-classes.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/pages/docs/api-events.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/pages/docs/api-options.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/app/app.6071e4ee.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/app/app.eb824859.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/assets/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/pages/demos/autoheight.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/pages/demos/autoplay.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/pages/demos/autowidth.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/pages/demos/basic.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/pages/demos/center.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/data/classes.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/constant.e97b12a3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/test/unit/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/assets/scss/custom.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/layouts/demos.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/pages/demos/demos.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/assets/scss/demos.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/pages/docs/dev-buildin-plugins.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/pages/docs/dev-external.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/pages/docs/dev-plugin-api.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/pages/docs/dev-styles.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/layouts/docs.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/assets/scss/docs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/assets/scss/docs.theme.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/pages/demos/events.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/data/events.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/data/features.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/partials/footer.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/assets/js/foundation.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/assets/vendors/foundation.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/fonts/glyphicons-halflings-regular.32941d63.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/partials/head.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/partials/header.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/assets/vendors/highlight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/assets/scss/highlight.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/partials/home-carousel.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/partials/home-features.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/partials/home-hero.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/partials/home-teaser-text.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/layouts/home.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/pages/index.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/test/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/partials/javascripts.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/assets/vendors/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/assets/vendors/jquery.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/assets/vendors/jquery.mousewheel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/pages/demos/lazyLoad.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/pages/demos/merge.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/helpers/modulo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/pages/demos/mousewheel.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/data/options.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/src/css/owl.animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/src/js/owl.animate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/src/scss/owl.animate.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/src/css/owl.autoheight.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/src/js/owl.autoheight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/src/scss/owl.autoheight.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/src/js/owl.autoplay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/src/js/owl.autorefresh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/src/css/owl.carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/src/js/owl.carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/src/scss/owl.carousel.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/src/js/owl.hash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/src/css/owl.lazyload.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/src/js/owl.lazyload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/src/scss/owl.lazyload.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/src/js/owl.navigation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/src/js/owl.support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/src/js/owl.support.modernizr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/src/css/owl.theme.default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/src/scss/owl.theme.default.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/src/css/owl.theme.green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/src/scss/owl.theme.green.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/src/css/owl.video.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/src/js/owl.video.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/src/scss/owl.video.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/fonts/raleway-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/fonts/raleway-light.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/fonts/raleway-medium.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/partials/releated-docs.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/pages/demos/responsive.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/pages/demos/rtl.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/partials/sidenav-docs.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/pages/demos/stagepadding.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/pages/docs/started-faq.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/pages/docs/started-installation.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/pages/docs/started-welcome.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/pages/docs/support-changelog.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/pages/docs/support-contact.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/pages/docs/support-contributing.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/pages/demos/test.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/helpers/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/partials/title.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/pages/demos/urlhashnav.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/app/vendor.cabf91ae.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/app/vendor.db08d9a9.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/partials/vendors.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/bower_components/owl-carousel2/docs_src/templates/pages/demos/video.hbs" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/assets/images/home/banner.b01c7e1d.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/assets/images/home/spotlight.4b919cbf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/client/assets/images/home/spotlight.9e35e1bd.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/index.html" afterPath="$PROJECT_DIR$/client/index.html" />
+    </list>
+    <ignored path="AlBooking-Deploy.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="AlBooking-Deploy" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.31456953">
+              <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+              <folding>
+                <marker date="1450075787484" expanded="true" signature="827:980" placeholder="..." />
+                <marker date="1450075787484" expanded="true" signature="920:948" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/client/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1920" />
+    <option name="y" value="-4" />
+    <option name="width" value="1920" />
+    <option name="height" value="1084" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlBooking-Deploy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlBooking-Deploy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlBooking-Deploy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlBooking-Deploy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlBooking-Deploy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlBooking-Deploy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlBooking-Deploy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e0ed560-1e2e-4a6b-bb93-4b503e16aa86" name="Default" comment="" />
+      <created>1450075766521</created>
+      <option name="number" value="Default" />
+      <updated>1450075766521</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1920" y="-4" width="1920" height="1084" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24986821" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/client/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31456953">
+          <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+          <folding>
+            <marker date="1450075787484" expanded="true" signature="827:980" placeholder="..." />
+            <marker date="1450075787484" expanded="true" signature="920:948" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
