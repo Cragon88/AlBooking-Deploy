@@ -1,39 +1,49 @@
-define([
-    "../core",
-    "./var/rsingleTag",
-    "../manipulation" // buildFragment
-], function (jQuery, rsingleTag) {
+define( [
+	"../core",
+	"../var/document",
+	"./var/rsingleTag",
+	"../manipulation/buildFragment",
 
-// data: string of html
-// context (optional): If specified, the fragment will be created in this context, defaults to document
+	// This is the only module that needs core/support
+	"./support"
+], function( jQuery, document, rsingleTag, buildFragment, support ) {
+
+// Argument "data" should be string of html
+// context (optional): If specified, the fragment will be created in this context,
+// defaults to document
 // keepScripts (optional): If true, will include scripts passed in the html string
-    jQuery.parseHTML = function (data, context, keepScripts) {
-        if (!data || typeof data !== "string") {
-            return null;
-        }
-        if (typeof context === "boolean") {
-            keepScripts = context;
-            context = false;
-        }
-        context = context || document;
+jQuery.parseHTML = function( data, context, keepScripts ) {
+	if ( !data || typeof data !== "string" ) {
+		return null;
+	}
+	if ( typeof context === "boolean" ) {
+		keepScripts = context;
+		context = false;
+	}
 
-        var parsed = rsingleTag.exec(data),
-            scripts = !keepScripts && [];
+	// Stop scripts or inline event handlers from being executed immediately
+	// by using document.implementation
+	context = context || ( support.createHTMLDocument ?
+		document.implementation.createHTMLDocument( "" ) :
+		document );
 
-        // Single tag
-        if (parsed) {
-            return [context.createElement(parsed[1])];
-        }
+	var parsed = rsingleTag.exec( data ),
+		scripts = !keepScripts && [];
 
-        parsed = jQuery.buildFragment([data], context, scripts);
+	// Single tag
+	if ( parsed ) {
+		return [ context.createElement( parsed[ 1 ] ) ];
+	}
 
-        if (scripts && scripts.length) {
-            jQuery(scripts).remove();
-        }
+	parsed = buildFragment( [ data ], context, scripts );
 
-        return jQuery.merge([], parsed.childNodes);
-    };
+	if ( scripts && scripts.length ) {
+		jQuery( scripts ).remove();
+	}
 
-    return jQuery.parseHTML;
+	return jQuery.merge( [], parsed.childNodes );
+};
 
-});
+return jQuery.parseHTML;
+
+} );
