@@ -782,7 +782,7 @@ var App = {
   donate: {
     title: "Deepen Our Impact",
     description1: "This year, we have the ambitious goal of empowering more young Vietnam’s professionals by providing them with great internships, trainings, and networking opportunities. As we are working hard to expand the program, we now need your help more than ever.",
-    description2: "There are currently 3 ways to make donation to us:",
+    description2: "There are currently 2 ways to make donation to us:",
     description3: "Thank you for your generous support!",
     payment: [
       {
@@ -794,15 +794,6 @@ var App = {
         name : "By Venmo (for those in the US/EU)",
         link: "https://venmo.com/SEO-Vietnam",
         type: 2
-      },
-      {
-        name : "By Bank Transfer (for those in Vietnam)",
-        lines: [
-          "HSBC Vietnam, HCMC Branch.",
-          "Name: Nguyen Nhu Nam",
-          "Account number: 102-051216-041"
-        ],
-        type: 3
       }
     ],
     image: "/assets/images/donate/donate-picture.3e1d4619.jpg",
