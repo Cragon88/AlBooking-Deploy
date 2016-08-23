@@ -80,7 +80,7 @@ var App = {
       events: [
       ],
       deadlines: [
-        {date: "15-Sep-2016", description: "Deadline to Apply for 2017 Spring Program"},
+        {date: "15-Sep-2016", description: "Deadline to Apply for 2017  Spring Program"},
         {date: "15-Jan-2017", description: "Deadline to Apply for 2017 Summer Program"}
       ]
     },
