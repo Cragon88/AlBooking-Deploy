@@ -717,28 +717,28 @@ var App = {
       {
         image: "/assets/images/about-us/Exec_Binh-Ng-Alum-Relations.54d8b88f.jpg",
         name: "Binh Nguyen",
-        title: "Alumni Relations Director",
+        title: "Alumni Relations Co-Director",
         description: "Business Development Lead at Kiva Fellow",
         link: "https://vn.linkedin.com/in/binhqnguyen"
       },
       {
         image: "/assets/images/about-us/Exec_Julie-Hoang-Alum-Relations-D.4ecd6e6d.jpg",
         name: "Julie Hoang",
-        title: "Alumni Relations Director",
+        title: "Alumni Relations Co-Director",
         description: "CRM & Digital Analytics Consultant at Havas",
         link: "https://vn.linkedin.com/in/thaohoang08"
       },
       {
         image: "/assets/images/about-us/Exec_Hieu-Nguyen-Hanoi-Ops.15b6ddad.jpg",
         name: "Hieu Nguyen",
-        title: "Hanoi Ops Director",
+        title: "Hanoi Ops Co-Director",
         description: "Classical Music Singer",
         link: "https://vn.linkedin.com/in/hieu-nguyen-6699251b"
       },
       {
         image: "/assets/images/about-us/Exec_Linh-Nguyen-Hanoi-Ops.d205a07b.jpg",
         name: "Linh Nguyen",
-        title: "Hanoi Ops Director",
+        title: "Hanoi Ops Co-Director",
         description: "Finance Director - PAN Food JSC",
         link: "#"
       },
