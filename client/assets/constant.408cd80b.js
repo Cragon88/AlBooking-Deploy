@@ -80,7 +80,7 @@ var App = {
       events: [
       ],
       deadlines: [
-        {date: "15-Sep-2016", description: "Deadline to Apply for 2017  Spring Program"},
+        {date: "18-Sep-2016", description: "Deadline to Apply for 2017  Spring Program"},
         {date: "15-Jan-2017", description: "Deadline to Apply for 2017 Summer Program"}
       ]
     },
@@ -89,7 +89,7 @@ var App = {
       title: "Application Process Timeline",
       rounds: [
         {name: " ", time: "Spring 2017       Summer 2017"},
-        {name: "Round 1 (Written Application)", time: "15/08 - 15/09      15/12 - 15/01"},
+        {name: "Round 1 (Written Application)", time: "18/08 - 18/09      15/12 - 15/01"},
         {name: "Round 2 (SEO-V Interview)", time: "10/10 - 23/10      20/02 - 05/03"},
         {name: "Round 3 (Employer Interview)", time: "08/11 - 01/12      20/03 - 14/04"},
         {name: "Final Offer", time: "Dec-2016         Apr-2017"}
