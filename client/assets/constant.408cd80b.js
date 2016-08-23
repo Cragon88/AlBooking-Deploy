@@ -773,7 +773,7 @@ var App = {
       {
         image: "/assets/images/about-us/Exec_Anh-Huynh.6540a76a.jpg",
         name: "Anh Huynh",
-        title: "Media Relations Manager",
+        title: "Communications Manager",
         description: "Researcher at YouGov",
         link: "https://uk.linkedin.com/in/htta1"
       }
