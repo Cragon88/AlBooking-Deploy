@@ -85,17 +85,18 @@ var App = {
       ]
     },
     process: {
-      header: "2017 Spring Career Program",
-      title: "Spring Application Process Timeline",
+      header: "Career Program",
+      title: "Application Process Timeline",
       rounds: [
         {name: "Round 1 (Written Application)", time: "15-Aug to 15-Sep"},
         {name: "Round 2 (SEO-V Interview)", time: "10-Oct to 23-Oct"},
         {name: "Round 3 (Employer Interview)", time: "8-Nov to 1-Dec"},
+        {name: "Round 4 (Employer Interview)", time: "8-Nov to 1-Dec"},
         {name: "Final Offer", time: "December 2016"}
       ],
       paragraph: {
         title: "SEO-Vietnam Career Program",
-        firstLine: "Location: Ho Chi Minh City and Hanoi",
+        firstLine: "Locations: Ho Chi Minh City (in Spring & Summer) and Hanoi (Summer only)",
         content: "SEO-Vietnam's placement process connects our students with top-notch financial services, retail, and non-profit organizations in Vietnam. Our career program also include rigorous training, mentorship and a Summer Seminar Series that featured executives and leaders in business, government and non-profit organizations"
       }
     }
