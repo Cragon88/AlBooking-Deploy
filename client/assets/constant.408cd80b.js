@@ -72,7 +72,7 @@ var App = {
   apply: {
     title: "What To Know Before Applying",
     left: {
-      fact1: {title: "Check your eligibility", description: "Candidates must either be enrolled in an undergraduate/graduate program or graduate no sooner than September 2016"},
+      fact1: {title: "Check your eligibility", description: "Candidates must either be enrolled in an undergraduate/graduate program or graduate no sooner than Sep-2016 for Spring application and no sooner than Dec-2016 for Summer application"},
       fact2: {title: "Prepare your application", description: "While all candidates are welcome to apply, their alignment with SEO-V's mission, vision and values are strongly preferred"}
     },
     right: {
@@ -88,11 +88,11 @@ var App = {
       header: "Career Program",
       title: "Application Process Timeline",
       rounds: [
-        {name: "Round 1 (Written Application)", time: "15-Aug to 15-Sep"},
-        {name: "Round 2 (SEO-V Interview)", time: "10-Oct to 23-Oct"},
-        {name: "Round 3 (Employer Interview)", time: "8-Nov to 1-Dec"},
-        {name: "Round 4 (Employer Interview)", time: "8-Nov to 1-Dec"},
-        {name: "Final Offer", time: "December 2016"}
+        {name: " ", time: "Spring 2017   |   Summer 2017"},
+        {name: "Round 1 (Written Application)", time: "15/08 - 15/09  |  15/12 - 15/01"},
+        {name: "Round 2 (SEO-V Interview)", time: "10/10 - 23/10  |  20/02 - 05/03"},
+        {name: "Round 3 (Employer Interview)", time: "08/11 - 01/12  |  20/03 - 14/04"},
+        {name: "Final Offer", time: "Dec-2016   |   Apr-2017"}
       ],
       paragraph: {
         title: "SEO-Vietnam Career Program",
