@@ -72,7 +72,7 @@ var App = {
   apply: {
     title: "What To Know Before Applying",
     left: {
-      fact1: {title: "Check your eligibility", description: "Candidates must either be enrolled in an undergraduate/graduate program or graduate no sooner than June 2016"},
+      fact1: {title: "Check your eligibility", description: "Candidates must either be enrolled in an undergraduate/graduate program or graduate no sooner than May 2016"},
       fact2: {title: "Prepare your application", description: "While all candidates are welcome to apply, their alignment with SEO-V's mission, vision and values are strongly preferred"}
     },
     right: {
@@ -80,18 +80,18 @@ var App = {
       events: [
       ],
       deadlines: [
-        {date: "30/09/15", description: "Deadline to Apply for 2016 Spring Program"},
-        {date: "15/01/16", description: "Deadline to Apply for 2016 Summer Program"}
+        {date: "15-Sep-2016", description: "Deadline to Apply for 2017 Spring Program"},
+        {date: "15-Jan-2017", description: "Deadline to Apply for 2017 Summer Program"}
       ]
     },
     process: {
-      header: "Summer Career Program",
-      title: "Summer Application Process Timeline",
+      header: "Spring Career Program",
+      title: "Spring Application Process Timeline",
       rounds: [
-        {name: "Round 1 (Written Application)", time: "15/12 - 15/01"},
-        {name: "Round 2 (SEO-V Interview)", time: "15/02 - 04/03"},
-        {name: "Round 3 (Employer Interview)", time: "16/03 - 16/04"},
-        {name: "Final Offer", time: "April"}
+        {name: "Round 1 (Written Application)", time: "15-Aug - 15-Sep"},
+        {name: "Round 2 (SEO-V Interview)", time: "15-Oct - 15-Nov"},
+        {name: "Round 3 (Employer Interview)", time: "15-Nov - 15-Dec"},
+        {name: "Final Offer", time: "December"}
       ],
       paragraph: {
         title: "SEO-Vietnam Career Program",
