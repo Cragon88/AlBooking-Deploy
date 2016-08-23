@@ -88,7 +88,7 @@ var App = {
       header: "SEO-Vietnam Career Program",
       title: "Application Process Timeline",
       rounds: [
-        {name: " ", time: "Spring 2017&#32&#32&#32|___Summer 2017"},
+        {name: " ", time: "Spring 2017     |___Summer 2017"},
         {name: "Round 1 (Written Application)", time: "15/08 - 15/09___|___15/12 - 15/01"},
         {name: "Round 2 (SEO-V Interview)", time: "10/10 - 23/10___|___20/02 - 05/03"},
         {name: "Round 3 (Employer Interview)", time: "08/11 - 01/12___|___20/03 - 14/04"},
