@@ -38,7 +38,7 @@ var App = {
   },
 
   footer: {
-    email: "recruitment@seo-vietnam.org",
+    email: "contact@seo-vietnam.org",
     item1 : {name: "About Us.", link: "/about-us"},
     item2 : {name: "Apply.", link: "/apply"},
     item3 : {name: "Programs.", link: "/programs"},
