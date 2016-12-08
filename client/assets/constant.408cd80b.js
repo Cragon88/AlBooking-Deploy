@@ -89,9 +89,9 @@ var App = {
       title: "Application Process Timeline",
       rounds: [
         {name: " ", time: "Spring 2017       Summer 2017"},
-        {name: "Round 1 (Written Application)", time: "18/08 - 18/09      07/12 - 15/01"},
-        {name: "Round 2 (SEO-V Interview)", time: "10/10 - 23/10      20/02 - 05/03"},
-        {name: "Round 3 (Employer Interview)", time: "08/11 - 01/12      20/03 - 14/04"},
+        {name: "Round 1 (Written Application)", time: "18/08 - 18/09      08/12 - 08/01"},
+        {name: "Round 2 (SEO-V Interview)", time: "10/10 - 23/10      06/02 - 21/02"},
+        {name: "Round 3 (Employer Interview)", time: "08/11 - 01/12      13/03 - 16/04"},
         {name: "Final Offer", time: "Dec-2016         Apr-2017"}
       ],
       paragraph: {
