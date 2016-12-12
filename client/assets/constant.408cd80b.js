@@ -267,7 +267,7 @@ var App = {
           silvers: [
             {
               name: "Everest Education",
-              logo: "E2.gif",
+              logo: "Everest.png",
               description: "Founded by Harvard and Stanford graduates, E2 prepares students mentally and academically for rigors of an international education in E2's small classes, camps, and VIP tutoring"
             },
             {
