@@ -72,7 +72,7 @@ var App = {
   apply: {
     title: "What To Know Before Applying",
     left: {
-      fact1: {title: "Check your eligibility", description: "Candidates must either be enrolled in an undergraduate/graduate program or graduate no sooner than Dec-2016 for Spring application and Jan-2017 for Summer application"},
+      fact1: {title: "Check your eligibility", description: "Candidates must either be enrolled in an undergraduate/graduate program or graduate no sooner than Sep-2016 for Spring application and Dec-2016 for Summer application"},
       fact2: {title: "Prepare your application", description: "While all candidates are welcome to apply, their alignment with SEO-V's mission, vision and values are strongly preferred"}
     },
     right: {
