@@ -588,8 +588,8 @@ var App = {
         items: []
       }, {
         title: "Our actions",
-        link: "/about-us-vmv",
-        active: "vmv",
+        link: "/about-us-actions",
+        active: "actions",
         items: []
       }, {
         title: "Our people",
@@ -631,6 +631,9 @@ var App = {
         title: "Diversity and Inclusion",
         text: "We foster inclusion of multiple perspectives regardless of socio-economic background, religious affiliation, or sexual orientation."
       }
+    ],
+    Actions: [
+        "We focus on developing a holistic framework to nurture leadership with three key pillars: Developing potential leaders, building communities and pursuing social causes"
     ],
     directors: [
       {
