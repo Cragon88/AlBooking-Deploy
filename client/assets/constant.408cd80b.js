@@ -632,51 +632,13 @@ var App = {
         text: "We foster inclusion of multiple perspectives regardless of socio-economic background, religious affiliation, or sexual orientation."
       }
     ],
-    actions: [
-        "We focus on developing a holistic framework to nurture leadership with three key pillars: Developing potential leaders, building communities and pursuing social causes"
-    ],
     directors: [
-      {
-        image: "/assets/images/about-us/Board_Heather.1b50b952.jpg",
-        name: "Heather Nguyen",
-        title: "Chairwoman",
-        description: "Cinema Marketing Director at Galaxy Studio",
-        link: "https://vn.linkedin.com/in/heathernguyen"
-      },
       {
         image: "/assets/images/about-us/Board_Tony.8b76b768.jpg",
         name: "Tony Ngo",
         title: "Founder and President",
         description: "Chairman and Co-CEO at Everest Education",
         link: "https://vn.linkedin.com/in/ztngo"
-      },
-      {
-        image: "/assets/images/about-us/Board_Don.5ce8adad.jpg",
-        name: "Don Le",
-        title: "Board Member",
-        description: "Co-CEO at Everest Education",
-        link: "https://vn.linkedin.com/in/donle35"
-      },
-      {
-        image: "/assets/images/about-us/Board_Kelly.3660f000.jpg",
-        name: "Kelly Wong",
-        title: "Board Member",
-        description: "Group CFO at Kido Group",
-        link: "https://vn.linkedin.com/in/kyhwong"
-      },
-      {
-        image: "/assets/images/about-us/Board_Dana.3c7c9b69.jpg",
-        name: "Dana Doan",
-        title: "Board Member",
-        description: "Founder and Strategic Advisor to the LIN Center for Community Development",
-        link: "https://vn.linkedin.com/in/danarhdoan"
-      },
-      {
-        image: "/assets/images/about-us/Board_Giang.79dbcede.jpg",
-        name: "Giang Nguyen",
-        title: "Board Member",
-        description: "Head of Investment Banking South at Saigon Securities Inc.",
-        link: "https://vn.linkedin.com/in/nguyen-giang-3a590248"
       },
       {
         image: "/assets/images/about-us/Board_Erik.3223171e.jpg",
@@ -686,11 +648,25 @@ var App = {
         link: "https://vn.linkedin.com/in/jonssonej"
       },
       {
-        image: "/assets/images/about-us/Board_Dung_Le.8a0cbdbd.jpg",
-        name: "Dung Le",
+        image: "/assets/images/about-us/Exec_Nam-Nguyen-CEO.34b8d2b8.jpg",
+        name: "Nam Nguyen",
         title: "Board Member",
-        description: "Group Managing Director and CRO at Techcombank",
-        link: "https://www.linkedin.com/in/badung-le-3951602a"
+        description: "Senior Investment Analyst at VIG",
+        link: "https://vn.linkedin.com/in/namnguyenvn"
+      },
+      {
+        image: "/assets/images/about-us/Exec_Hieu-Nguyen-Hanoi-Ops.15b6ddad.jpg",
+        name: "Hieu Nguyen",
+        title: "Board Member",
+        description: "CEO at Young Makers Vietnam",
+        link: "https://vn.linkedin.com/in/hieu-nguyen-6699251b"
+      },
+      {
+        image: "/assets/images/about-us/Exec_Linh-Nguyen-Hanoi-Ops.d205a07b.jpg",
+        name: "Linh Nguyen",
+        title: "Board Member",
+        description: "Finance Director - PAN Food JSC",
+        link: "#"
       }
     ],
     members: [
@@ -702,11 +678,11 @@ var App = {
         link: "https://vn.linkedin.com/in/namnguyenvn"
       },
       {
-        image: "/assets/images/about-us/Exec_Thao-Recruitment.1e7032ad.jpg",
-        name: "Thao Duong",
-        title: "Recruitment Director",
-        description: "Senior at UT Dallas",
-        link: "https://vn.linkedin.com/in/thaoduong252"
+        image: "/assets/images/about-us/Exec_Linh-Nguyen-Hanoi-Ops.d205a07b.jpg",
+        name: "Linh Nguyen",
+        title: "Alumni Development ",
+        description: "Finance Director - PAN Food JSC",
+        link: "#"
       },
       {
         image: "/assets/images/about-us/Exec_Chi-Mai-Marketing-D.4b565c8f.jpg",
@@ -766,9 +742,9 @@ var App = {
       },
       {
         image: "/assets/images/about-us/Exec_Tim-Nguyen_External-Relations.f9e5ad62.jpg",
-        name: "Anh Nguyen",
+        name: "Anh (Tim) Nguyen",
         title: "External Relations Director",
-        description: "Business Analyst at BCG",
+        description: "Associate at the Boston Consulting Group (BCG)",
         link: 'https://vn.linkedin.com/in/anh-"tim"-le-nguyen-52268630'
       },
       {
