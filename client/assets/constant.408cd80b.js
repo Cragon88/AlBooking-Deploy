@@ -587,6 +587,11 @@ var App = {
         active: "vmv",
         items: []
       }, {
+        title: "Our actions",
+        link: "/about-us-vmv",
+        active: "vmv",
+        items: []
+      }, {
         title: "Our people",
         link: "/about-us-people",
         active: "people",
@@ -605,26 +610,26 @@ var App = {
     ],
     vision: "SEO-Vietnam is a non-profit organization founded in 2009 with a vision to create a powerful network of support and develop leadership capacity among professionals who will make a difference in Vietnam. We aspire to be a driving force that will propel young, bright-minded and ambitious Vietnamese forward for a successful future of Vietnam by giving them guidance and opportunities to grow. We aim to inspire them to cultivate intellect, character, integrity and a sense of social responsibility for the progressive and sustainable development of the nation.",
     mission: [
-        "Connecting high-achieving students and young professionals with structured opportunities to intern and work for leading businesses and non-profit organizations in Vietnam.",
-        "Producing outstanding young professionals through rigorous training, mentoring and speaker events.",
-        "Inspiring a sense of social responsibility."
+        "Build a generation of business and community leaders, who will be successful through structured work experience, access to senior corporate leadership, and rigorous training in both hard and soft skills;",
+        "Inspire social responsibility and empower fellows to maximize their impacts;",
+        "Help deserving under-privileged students gain access to life-changing opportunities."
     ],
     values: [
       {
-        title: "Excellence and continuous self-improvement",
-        text: "We are devoted to training high-caliber candidates with ambitions, lifelong learning drive and great potentials. We encourage both individual initiative, ability and creativity and teamwork."
+        title: "Continuous self-improvement",
+        text: "We devote ourselves to high-caliber candidates with ambitions and drives for lifelong learning."
       },
       {
         title: "Leadership",
-        text: "We promote a dedication to serving a greater good."
+        text: "We dedicate ourselves to serving greater and providing more opportunity to those who come after us."
       },
       {
         title: "Integrity",
-        text: "We uphold the principle of offering opportunity based on merit, and treat every participant, partner, sponsor equally in every action and decision."
+        text: "We offer opportunity based on merit, and treat every participant, partner, sponsor equitably in every action and decision."
       },
       {
         title: "Diversity and Inclusion",
-        text: "We foster an environment that encourages multicultural perspectives and conversations at all levels within our organization."
+        text: "We foster inclusion of multiple perspectives regardless of socio-economic background, religious affiliation, or sexual orientation."
       }
     ],
     directors: [
