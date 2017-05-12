@@ -632,7 +632,7 @@ var App = {
         text: "We foster inclusion of multiple perspectives regardless of socio-economic background, religious affiliation, or sexual orientation."
       }
     ],
-    ctions: [
+    actions: [
         "We focus on developing a holistic framework to nurture leadership with three key pillars: Developing potential leaders, building communities and pursuing social causes"
     ],
     directors: [
