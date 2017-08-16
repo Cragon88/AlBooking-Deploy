@@ -72,7 +72,7 @@ var App = {
   apply: {
     title: "What To Know Before Applying",
     left: {
-      fact1: {title: "Check your eligibility", description: "Candidates must either be enrolled in an undergraduate/graduate program or graduate no sooner than Sep-2016 for Spring application and Dec-2016 for Summer application"},
+      fact1: {title: "Check your eligibility", description: "Candidates must either be enrolled in an undergraduate/graduate program or graduate no sooner than August 2017 for Spring application and November 2017 for Summer application"},
       fact2: {title: "Prepare your application", description: "While all candidates are welcome to apply, their alignment with SEO-V's mission, vision and values are strongly preferred"}
     },
     right: {
@@ -80,18 +80,18 @@ var App = {
       events: [
       ],
       deadlines: [
-        {date: "18-Sep-2016", description: "Deadline to Apply for 2017  Spring Program"},
-        {date: "08-Jan-2017", description: "Deadline to Apply for 2017 Summer Program"}
+        {date: "16-Sep-2017", description: "Deadline to Apply for 2018  Spring Program"},
+        {date: "20-Nov-2017", description: "Deadline to Apply for 2018 Summer Program"}
       ]
     },
     process: {
       header: "SEO-Vietnam Career Program",
       title: "Application Process Timeline",
       rounds: [
-        {name: " ", time: "Spring 2017       Summer 2017"},
-        {name: "Round 1 (Written Application)", time: "18/08 - 18/09      08/12 - 08/01"},
-        {name: "Round 2 (SEO-V Interview)", time: "10/10 - 23/10      06/02 - 21/02"},
-        {name: "Round 3 (Employer Interview)", time: "08/11 - 01/12      13/03 - 16/04"},
+        {name: " ", time: "Spring 2018       Summer 2018"},
+        {name: "Round 1 (Written Application)", time: "19/08 - 16/09      20/11 - 20/12"},
+        {name: "Round 2 (SEO-V Interview)", time: "09/10 - 30/10      21/01 - 18/02"},
+        {name: "Round 3 (Employer Interview)", time: "13/11 - mid Dec     02/03 - early Apr"},
         {name: "Final Offer", time: "Dec-2016         Apr-2017"}
       ],
       paragraph: {
