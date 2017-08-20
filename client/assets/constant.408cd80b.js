@@ -289,7 +289,7 @@ var App = {
         title: "Program Overview",
         link: "/programs",
         active: true,
-        items: [{title: "Career program", active: true, link: "/programs"}, {title: "Momentum Program", active: false, link: "/momentum-program"}]
+        items: [{title: "Fellowship program", active: true, link: "/programs"}, {title: "Momentum Program", active: false, link: "/momentum-program"}]
       }, {
         title: "Apply",
         link: "/apply",
@@ -318,7 +318,7 @@ var App = {
         items: [
           {
             title: "Internship Placement",
-            lines: ["Since 2009, our annual career program has connected hundreds of high-performing students with top-notch internships in Vietnam"],
+            lines: ["Since 2009, our annual fellowship program has connected hundreds of high-performing students with top-notch internships in Vietnam"],
             images: ["/assets/images/programs/Internship-Placement_1.6eafc236.jpg", "/assets/images/programs/Internship-Placement_2.2820c8cd.jpg"]
           },
           {
@@ -328,7 +328,7 @@ var App = {
           },
           {
             title: "Careers Talk",
-            lines: ["SEO-V Career Program also includes bi-weekly on-site visits and networking events at partner companies to gain insights on the working environment in Vietnam"],
+            lines: ["SEO-V Fellowship Program also includes bi-weekly on-site visits and networking events at partner companies to gain insights on the working environment in Vietnam"],
             images: ["/assets/images/programs/Speaker-Series_1.b74a0f4c.jpg", "/assets/images/programs/Speaker-Series_2.29781739.jpg"]
           },
           {
@@ -352,7 +352,7 @@ var App = {
         title: "Program Overview",
         link: "/programs",
         active: true,
-        items: [{title: "Career program", active: false, link: "/programs"}, {title: "Momentum Program", active: true, link: "/momentum-program"}]
+        items: [{title: "Fellowship program", active: false, link: "/programs"}, {title: "Momentum Program", active: true, link: "/momentum-program"}]
       }, {
         title: "Apply",
         link: "/apply",
@@ -402,7 +402,7 @@ var App = {
   pastPrograms : {
     title : "SEO-Vietnam Programs",
     description: {
-      title: "SEO-Vietnam career program gives students an opportunity to secure 8-to-10-week internships with 35 employers in Vietnam across 6 different industries: Finance, Technology, Media & Entertainment, Education, FMCG, and Non-profit",
+      title: "SEO-Vietnam Fellowship program gives students an opportunity to secure 8-to-10-week internships with 35 employers in Vietnam across 6 different industries: Finance, Technology, Media & Entertainment, Education, FMCG, and Non-profit",
       text: "On top of internship placement, rigorous training, insightful speaker series and meaningful social work, our students build up a strong professional network and create friendship that last so much longer than the 10-week summer or spring experience"
     },
     instruction: "Select a year, or just scroll",
@@ -411,7 +411,7 @@ var App = {
         title: "Program Overview",
         link: "/programs",
         active: false,
-        items: [{title: "Career program", active: false, link: "/programs"}, {title: "Momentum Program", active: false, link: "/momentum-program"}]
+        items: [{title: "Fellowship program", active: false, link: "/programs"}, {title: "Momentum Program", active: false, link: "/momentum-program"}]
       }, {
         title: "Apply",
         link: "/apply",
@@ -474,13 +474,13 @@ var App = {
         year: 2015,
         events: [
           {
-            description: "In 2015, SEO-Vietnam hosted its first career program in Hanoi, connecting more and more candidates to opportunities based in the region",
+            description: "In 2015, SEO-Vietnam hosted its first fellowship program in Hanoi, connecting more and more candidates to opportunities based in the region",
             image: "/assets/images/programs/past/2015_1.jpg",
             type: 2,
             isFirst: true
           },
           {
-            description: "2015 is also the first year SEO-Vietnam initiated a spring career program tailored for local students in both Hanoi and HCMC",
+            description: "2015 is also the first year SEO-Vietnam initiated a spring fellowship program tailored for local students in both Hanoi and HCMC",
             image: "/assets/images/programs/past/2015_2.jpg",
             type: 2
           }
@@ -604,8 +604,8 @@ var App = {
     },
     stories: [
       'As an investor in Asia broadly and Vietnam specifically, Tony Ngo heard from corporate and social leaders about their pressing needs for talent.  With Vietnam opening to the global economy, opportunities were everywhere, but seasoned managers who could compete and innovate were scarce.  Then in 2009, Tony founded "Interns in Vietnam" (IIV) to develop leaders who would not only succeed as individuals, but also make a difference by driving business, economic, and social change.  To entice supporters and applicants, IIV wrapped this leadership development vision in an intensive internship program targeting top university students.',
-      'The initial program placed five students at Horizon Capital and IDG Ventures Vietnam in the summer of 2009.  In 2010, under the direction of Napoleon Ta, IIV became an affiliate of Sponsors for Educational Opportunity (SEO), a U.S based non-profit organization that provides educational and career programs to young people from underserved communities.  Thus, we formed SEO-Vietnam.',
-      "Since then we have grown dramatically each year.  We have expanded the signature SEO-Vietnam Career Program to include two sessions in HCMC (Spring and Summer) as well as one in Hanoi (Summer).  Additionally, we also run Momentum in an effort to broaden our impact to a wider base of students",
+      'The initial program placed five students at Horizon Capital and IDG Ventures Vietnam in the summer of 2009.  In 2010, under the direction of Napoleon Ta, IIV became an affiliate of Sponsors for Educational Opportunity (SEO), a U.S based non-profit organization that provides educational and fellowship programs to young people from underserved communities.  Thus, we formed SEO-Vietnam.',
+      "Since then we have grown dramatically each year.  We have expanded the signature SEO-Vietnam Fellowship Program to include two sessions in HCMC (Spring and Summer) as well as one in Hanoi (Summer).  Additionally, we also run Momentum in an effort to broaden our impact to a wider base of students",
       "The strength of SEO-Vietnam lies with the passion and commitment of our alumni.  We operate on a 100% volunteer basis, yet we expect to serve over 100 students a year through our four intense programs."
     ],
     vision: "SEO-Vietnam is a non-profit organization founded in 2009 with a vision to create a powerful network of support and develop leadership capacity among professionals who will make a difference in Vietnam. We aspire to be a driving force that will propel young, bright-minded and ambitious Vietnamese forward for a successful future of Vietnam by giving them guidance and opportunities to grow. We aim to inspire them to cultivate intellect, character, integrity and a sense of social responsibility for the progressive and sustainable development of the nation.",
