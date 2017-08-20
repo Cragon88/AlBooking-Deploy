@@ -54,7 +54,7 @@ var App = {
   home : {
     spotlight: {
       title: "Make an impact",
-      description: "Sponsors for Educational Opportunity - Vietnam (SEO-Vietnam) provides superior educational and career programs to students to maximize their opportunities for professional success",
+      description: "Sponsors for Educational Opportunity - Vietnam (SEO-Vietnam) provides superior educational and fellowship programs to students to maximize their opportunities for professional success",
       link: "Apply Now"
     },
     company : {
@@ -85,7 +85,7 @@ var App = {
       ]
     },
     process: {
-      header: "SEO-Vietnam Career Program",
+      header: "SEO-Vietnam Fellowship Program",
       title: "Application Process Timeline",
       rounds: [
         {name: " ", time: "Spring 2018       Summer 2018"},
@@ -95,9 +95,9 @@ var App = {
         {name: "Final Offer", time: "Dec-2017         Apr-2018"}
       ],
       paragraph: {
-        title: "SEO-Vietnam Career Program",
+        title: "SEO-Vietnam Fellowship Program",
         firstLine: "Locations: Ho Chi Minh City (in Spring & Summer) and Hanoi (Summer only)",
-        content: "SEO-Vietnam's placement process connects our students with top-notch financial services, retail, and non-profit organizations in Vietnam. Our career program also include rigorous training, mentorship and a Summer Seminar Series that featured executives and leaders in business, government and non-profit organizations"
+        content: "SEO-Vietnam's placement process connects our students with top-notch financial services, retail, and non-profit organizations in Vietnam. Our fellowship program also include rigorous training, mentorship and a Summer Seminar Series that featured executives and leaders in business, government and non-profit organizations"
       }
     }
   },
