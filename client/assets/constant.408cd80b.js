@@ -291,9 +291,9 @@ var App = {
               name: "VinGroup",
               logo: "Vingroup.jpg",
               description: "Vingroup continues to pioneer and lead consumer trends in each of its businesses introducing Vietnamese consumers to a brand new, modern life-style with international-standard products and services"
-            }
-    ]
-  },
+            }]
+        }
+  ,
 
   program : {
     title : "SEO-Vietnam Programs",
