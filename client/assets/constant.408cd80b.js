@@ -149,15 +149,20 @@ var App = {
               description: "VI (Vietnam Investments) Group is a private equity firm that focuses on high growth businesses in Vietnam"
             },
             {
-              name: "Indochina Capital",
-              logo: "Indochina_Capital.jpg",
-              description: "Founded in 1999, Indochina Capital is one of Vietnam’s leading financial services and investment firms active in asset management"
+              name: "Deloitte Vietnam",
+              logo: "Deloitte.png",
+              description: "“Deloitte” is the brand under which tens of thousands of dedicated professionals in independent firms throughout the world collaborate to provide audit, consulting, financial advisory, risk management, tax, and related services to select clients"
             },
             {
-              name: "ACB",
-              logo: "ACB.png",
-              description: "Asia Commercial Bank is the largest private bank in Vietnam by assets. Its branch network system totalled nearly 9000 employees offering a variety of services to clients"
+              name: "IDG Venture Vietnam",
+              logo: "IDGVV.bmp",
+              description: "IDG Ventures Vietnam (IDGVV) is the first technology venture capital fund in Vietnam. Since 2004, we’ve been working with entrepreneurs to grow innovative and market-leading companies"
             },
+            {
+              name: "VNDirect",
+              logo: "VNdirect.jpg",
+              description: "One of the most reputable securities companies in the Vietnamese stock market"
+            },   
             {
               name: "SSI",
               logo: "SSI.jpg",
@@ -172,14 +177,9 @@ var App = {
           silvers: [],
           normals:[
             {
-              name: "M-Service",
-              logo: "M_Service.png",
-              description: "M_Service provides financial service under the brand name of MoMo. MoMo provides new channels for customers, who have a mobile phone, to access traditional retail financial services via an extensive distribution network of mobile operators"
-            },
-            {
-              name: "Zalora",
-              logo: "Zalora_Vietnam.jpg",
-              description: "ZALORA is an e-commerce platform and website that provides fashion and footwear products. Users can view images and purchase their desired fashion product online while receiving fashion tips and advice from the site"
+              name: "Uber",
+              logo: "Ubẻ.png",
+              description: "Uber Technologies Inc. is a global transportation technology company headquartered in San Francisco, California, United States, operating in 633 cities worldwide"
             },
             {
               name: "Lazada",
@@ -187,14 +187,9 @@ var App = {
               description: "Lazada is part of Lazada Group - a privately owned e-commerce company headquartered in Sngapore that was found by Rocket Internet in 2011 with the goal of being “the Amazon.com of Southeast Asia”"
             },
             {
-              name: "iVivu",
-              logo: "ivivu.png",
-              description: ":iVivu is a joint venture that offers a hotel management system for smart hotels in Australia. Catering to a customer base in Southeast Asian countries such as Vietnam, IVivu enables travelers to reserve social workshops, hotels, and medical facilities online"
-            },
-            {
-              name: "Tiki",
-              logo: "Tiki_VN.png",
-              description: "Tiki.vn is an e-commerce startup in Vietnam which offers customer service 7 days a week, free nationwide delivery, a wide range of 35,000 products ranging from books in both Vietnamese and English, e-book devices, gifts, stationary, fashion apparel, and accessories"
+              name: "Appota",
+              logo: "Appota.png",
+              description: "Appota Corporation is a mobile app service provider in Vietnam with 3 core business services: Game Publishing, Advertisement, and Payment."
             }
           ]
         }
@@ -220,6 +215,11 @@ var App = {
               description: "XLE seeks to become the central figure in transforming the sports’ eco-system in Vietnam. Besides making sports a great entertainment experience and a sustainable business; we also focus on developing youth and inspiring millions of sports fans in Vietnam"
             },
             {
+              name: "TMG",
+              logo: "TMG_logo.jpg",
+              description: "Asia’s leading customer-centric travel group providing all-inclusive travel associated services."
+            },
+            {
               name: "YanTV",
               logo: "YAN.jpg",
               description: "YMG and its subsidiaries is a entertainment multi-media corporate in Vietnam focusing on developing synthetic forms of entertainment for the youth, being integrated in almost every major communication platforms including TV, digital, event and production"
@@ -230,9 +230,9 @@ var App = {
         items: {
           golds: [
             {
-              name: "Vinataba-Phillip Morris",
-              logo: "PM-Vinataba.jpg",
-              description: "Philip Morris International Inc. (PMI) is the leading international tobacco company, with six of the world’s top 15 international brands, including Marlboro, the number one cigarette brand worldwide"
+              name: "McDonald's",
+              logo: "McDonald's_logo.png",
+              description: "McDonald's is the leading global foodservice retailer with over 36000 restaurants in more than 100 countries around the world"
             }],
           silvers: [
             {
@@ -242,7 +242,9 @@ var App = {
             }],
           normals:[]
         }
-      }, {
+      }, 
+      
+      {
         title: "Ngo",
         items: {
           golds: [],
@@ -271,14 +273,25 @@ var App = {
               description: "Founded by Harvard and Stanford graduates, E2 prepares students mentally and academically for rigors of an international education in E2's small classes, camps, and VIP tutoring"
             },
             {
-              name: "Yola",
-              logo: "Yola.jpg",
-              description: "As a premier provider of educational services in Vietnam, YOLA provides a wide range of educational programs and products, including test preparation courses,English language, soft-skill training, after-school tutoring, summer camps, and development of educational content"
+              name: "Topica",
+              logo: "Topica.png",
+              description: "Topica Edtech Group is a leading online education provider in South East Asia"
             }
           ],
           normals:[]
         }
-      }
+      },
+      {
+        title: "Other",
+        items: {
+          golds: [],
+          silvers: [],
+          normals:[
+            {
+              name: "VinGroup",
+              logo: "Vingroup.jpg",
+              description: "Vingroup continues to pioneer and lead consumer trends in each of its businesses introducing Vietnamese consumers to a brand new, modern life-style with international-standard products and services"
+            }
     ]
   },
 
