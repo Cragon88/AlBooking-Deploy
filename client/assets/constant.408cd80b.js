@@ -64,8 +64,8 @@ var App = {
     "partner" : {
       title : "Our Partners",
       description: "SEO-Vietnam has successfully partnered with 35 prestigious financial services, retail, and non-profit organizations to provide the best internship experience to our students in Vietnam",
-      golds: ["/assets/images/logo/EY.c5876e91.png", "/assets/images/logo/VN_Esports.aab531a1.png","/assets/images/logo/PM-Vinataba.8e0cdfc9.jpg", "/assets/images/logo/PWC.9f6e0a37.png"],
-      silvers: ["/assets/images/logo/Kinh_Do.b1411400.png", "/assets/images/logo/Everest.png", "/assets/images/logo/VinaCapital.c538e1dd.jpg", "/assets/images/logo/Horizon.e4ac399c.jpg", "/assets/images/logo/HSC.885e8319.jpg", "/assets/images/logo/Vingroup.jpg", "/assets/images/logo/Yola.129a4698.jpg"]
+      golds: ["/assets/images/logo/EY.c5876e91.png", "/assets/images/logo/VNG.jpg","/assets/images/logo/UP.jpg"],
+      silvers: ["/assets/images/logo/Topica.png", "/assets/images/logo/Everest.png", "/assets/images/logo/HSC.jpg", "/assets/images/logo/Phoenix Holdings.png"]
     }
   },
 
