@@ -81,7 +81,7 @@ var App = {
       ],
       deadlines: [
         {date: "19-Sep-2017", description: "Deadline to Apply for 2018  Spring Program"},
-        {date: "04-Jam-2017", description: "Deadline to Apply for 2018 Summer Program"}
+        {date: "04-Jan-2017", description: "Deadline to Apply for 2018 Summer Program"}
       ]
     },
     process: {
