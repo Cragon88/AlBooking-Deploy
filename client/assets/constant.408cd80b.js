@@ -317,8 +317,8 @@ var App = {
         active: false,
         items: []
       }, {
-        title: "Mentors",
-        link: "/mentors",
+        title: "Past programs",
+        link: "/past-programs",
         active: false,
         items: []
       }, {
@@ -385,8 +385,8 @@ var App = {
         active: false,
         items: []
       }, {
-        title: "Mentors",
-        link: "/mentors",
+        title: "Past programs",
+        link: "/past-programs",
         active: false,
         items: []
       }, {
@@ -449,8 +449,8 @@ pastPrograms : {
         active: false,
         items: []
       }, {
-        title: "Mentors",
-        link: "/mentors",
+        title: "Past programs",
+        link: "/past-programs",
         active: false,
         items: []
       }, {
@@ -628,8 +628,8 @@ pastPrograms : {
         active: false,
         items: []
       }, {
-        title: "Mentors",
-        link: "/mentors",
+        title: "Past programs",
+        link: "/past-programs",
         active: false,
         items: []
       }, {
