@@ -26,7 +26,8 @@ var App = {
     item2 : {name: "Apply", link: "/apply"},
     item3 : {name: "Programs", link: "/programs"},
     item4 : {name: "Partners", link: "/partners"},
-    item5 : {name: "Donate", link: "/donate"}
+    item5 : {name: "Mentors", link: "/mentors"},
+    item6 : {name: "Donate", link: "/donate"}
   },
 
   pageMenu: {
@@ -35,7 +36,8 @@ var App = {
     item2 : {name: "Apply", link: "/apply"},
     item3 : {name: "Programs", link: "/programs"},
     item4 : {name: "Partners", link: "/partners"},
-    item5 : {name: "Donate", link: "/donate"}
+    item5 : {name: "Mentors", link: "/mentors"},
+    item6 : {name: "Donate", link: "/donate"}
   },
 
   footer: {
@@ -44,7 +46,8 @@ var App = {
     item2 : {name: "Apply.", link: "/apply"},
     item3 : {name: "Programs.", link: "/programs"},
     item4 : {name: "Partners.", link: "/partners"},
-    item5 : {name: "Donate.", link: "/donate"},
+    item5 : {name: "Mentors", link: "/mentors"},
+    item6 : {name: "Donate.", link: "/donate"},
     contact: {
       facebook: "http://facebook.com/seovie",
       linkedin: "https://www.linkedin.com/company/sponsors-for-educational-opportunity---vietnam?trk=mini-profile",
@@ -81,7 +84,7 @@ var App = {
       events: [
       ],
       deadlines: [
-        {date: "19-Sep-2017", description: "Deadline to Apply for 2018  Spring Program"},
+        {date: "19-Sep-2017", description: "Deadline to Apply for 2018  Spring Program"},
         {date: "04-Jan-2018", description: "Deadline to Apply for 2018 Summer Program"}
       ]
     },
@@ -89,11 +92,11 @@ var App = {
       header: "SEO-Vietnam Fellowship Program",
       title: "Application Process Timeline",
       rounds: [
-        {name: " ", time: "Spring 2018       Summer 2018"},
-        {name: "Round 1 (Written Application)", time: "19/08 - 19/09      20/11 - 04/01"},
-        {name: "Round 2 (SEO-V Interview)", time: "09/10 - 30/10      21/01 - 18/02"},
-        {name: "Round 3 (Employer Interview)", time: "13/11 - mid Dec   02/03 - early Apr"},
-        {name: "Final Offer", time: "Dec-2017         Apr-2018"}
+        {name: " ", time: "Spring 2018       Summer 2018"},
+        {name: "Round 1 (Written Application)", time: "19/08 - 19/09      20/11 - 04/01"},
+        {name: "Round 2 (SEO-V Interview)", time: "09/10 - 30/10      21/01 - 18/02"},
+        {name: "Round 3 (Employer Interview)", time: "13/11 - mid Dec   02/03 - early Apr"},
+        {name: "Final Offer", time: "Dec-2017         Apr-2018"}
       ],
       paragraph: {
         title: "SEO-Vietnam Fellowship Program",
@@ -179,7 +182,7 @@ var App = {
           normals:[
             {
               name: "Uber",
-              logo: "Ubẻ.png",
+              logo: "Ub?.png",
               description: "Uber Technologies Inc. is a global transportation technology company headquartered in San Francisco, California, United States, operating in 633 cities worldwide"
             },
             {
@@ -321,11 +324,6 @@ var App = {
         link: "/past-programs",
         active: false,
         items: []
-      }, {
-        title: "Past programs",
-        link: "/past-programs",
-        active: false,
-        items: []
       }
     ],
     content: {
@@ -389,11 +387,6 @@ var App = {
         link: "/past-programs",
         active: false,
         items: []
-      }, {
-        title: "Past programs",
-        link: "/past-programs",
-        active: false,
-        items: []
       }
     ],
     content: {
@@ -424,186 +417,7 @@ var App = {
       }
     }
   },
-  
-pastPrograms : {
-    title : "SEO-Vietnam Programs",
-    description: {
-      title: "SEO-Vietnam Fellowship program gives students an opportunity to secure 8-to-10-week internships with 35 employers in Vietnam across 6 different industries: Finance, Technology, Media & Entertainment, Education, FMCG, and Non-profit",
-      text: "On top of internship placement, rigorous training, insightful speaker series and meaningful social work, our students build up a strong professional network and create friendship that last so much longer than the 10-week summer or spring experience"
-    },
-    instruction: "Select a year, or just scroll",
-    sideBar : [
-      {
-        title: "Program Overview",
-        link: "/programs",
-        active: false,
-        items: [{title: "Fellowship program", active: false, link: "/programs"}, {title: "Momentum Program", active: false, link: "/momentum-program"}]
-      }, {
-        title: "Apply",
-        link: "/apply",
-        active: false,
-        items: []
-      }, {
-        title: "Partners",
-        link: "/partners",
-        active: false,
-        items: []
-      }, {
-        title: "Past programs",
-        link: "/past-programs",
-        active: false,
-        items: []
-      }, {
-        title: "Past programs",
-        link: "/past-programs",
-        active: true,
-        items: []
-      }
-    ],
-    timeline: {
-      title: "SEO-Vietnam through History",
-      chart: [
-        {
-          year: 2009,
-          interns: {count: 5, subfix: "Interns"},
-          companies: {count: 2, subfix: "Companies"}
-        },
-        {
-          year: 2010,
-          interns: {count: 13, subfix: "Interns"},
-          companies: {count: 7, subfix: "Companies"}
-        },
-        {
-          year: 2011,
-          interns: {count: 26, subfix: "Interns"},
-          companies: {count: 13, subfix: "Companies"}
-        },
-        {
-          year: 2012,
-          interns: {count: 27, subfix: "Interns"},
-          companies: {count: 18, subfix: "Companies"}
-        },
-        {
-          year: 2013,
-          interns: {count: 37, subfix: "Interns"},
-          companies: {count: 18, subfix: "Companies"}
-        },
-        {
-          year: 2014,
-          interns: {count: 57, subfix: "Interns"},
-          companies: {count: 28, subfix: "Companies"}
-        },
-        {
-          year: 2015,
-          interns: {count: 66, subfix: "Interns"},
-          companies: {count: 33, subfix: "Companies"}
-        }
-      ]
-    },
-    histories: [
-      {
-        year: 2015,
-        events: [
-          {
-            description: "In 2015, SEO-Vietnam hosted its first fellowship program in Hanoi, connecting more and more candidates to opportunities based in the region",
-            image: "/assets/images/programs/past/2015_1.jpg",
-            type: 2,
-            isFirst: true
-          },
-          {
-            description: "2015 is also the first year SEO-Vietnam initiated a spring fellowship program tailored for local students in both Hanoi and HCMC",
-            image: "/assets/images/programs/past/2015_2.jpg",
-            type: 2
-          }
-        ]
-      },
-      {
-        year: 2014,
-        events: [
-          {
-            description: "In 2014, SEO-Vietnam hosts the first series of live Webinar where candidates could ask questions for panelists directly",
-            image: "/assets/images/programs/past/2014.jpg",
-            type: 2,
-            isFirst: true
-          },
-          {
-            description: "We registered the biggest summer class of interns as 57 students secure internships from our partner companies",
-            image: "/assets/images/programs/past/2014_2.jpg",
-            type: 2
-          }
-        ]
-      },
-      {
-        year: 2013,
-        events: [
-          {
-            description: "The SEO-Vietnam success story carried on as the class size increased by 37% compared to the previous year",
-            image: "/assets/images/programs/past/2013_1.jpg",
-            type: 2,
-            isFirst: true
-          },
-          {
-            description: "In 2013, SEO-Vietnam altered its community service component to give students a choice of three local NPOs to work with over a period of 8 weeks",
-            image: "/assets/images/programs/past/2013_2.jpg",
-            type: 2
-          }
-        ]
-      },
-      {
-        year: 2012,
-        events: [
-          {
-            description: "In summer 2012, SEO-Vietnam made an impressive achievement – doubling the number of applicants",
-            image: "/assets/images/programs/past/2012_1.jpg",
-            type: 2,
-            isFirst: true
-          },
-          {
-            description: "Out of 482 candidates, we successfully selected 27 students and matched them with 17 partner employers.",
-            image: "/assets/images/programs/past/2012_2.jpg",
-            type: 2
-          }
-        ]
-      },
-      {
-        year: 2011,
-        events: [
-          {
-            description: "In summer 2011, SEO-Vietnam successfully expanded our program to include more partner employers ranging from financial services firms, technology start-ups to educational institutions",
-            image: "/assets/images/programs/past/2011_1.jpg",
-            type: 2,
-            isFirst: true
-          },
-          {
-            description: "We hosted the first off-line info session at various universities to promote our organization to more local students",
-            image: "/assets/images/programs/past/2011_2.jpg",
-            type: 2
-          }
-        ]
-      },
-      {
-        year: 2010,
-        events: [
-          {
-            description: "In 2010, IIV partnered with Sponsors for Educational Opportunity (SEO) to form SEO-Vietnam. In its first year, SEO-Vietnam successfully placed 13 students in 7 firms at several prestigious financial services, retail, and non-profit organizations in Vietnam. We hosted a total of 13 summer seminar series, 9 training sessions and workshops, with one opening dinner accompanied by the welcoming speech by the founders of SEO, and provided a mentoring program.",
-            type: 1,
-            isFirst: true
-          }
-        ]
-      },
-      {
-        year: 2009,
-        events: [
-          {
-            description: "In 2009, Tony Ngo founded 'Interns in Vietnam' (IIV). The initial summer program of 2009 provided opportunities to connect 5 interns from a diversity of backgrounds with Vietnamese leading financial firms (Horizon Capital and IDG Ventures Vietnam). The interns were placed in different divisions of IIV’s partner companies, receiving on-the-job training and mentorship from a firm supervisor. This ideology of giving the interns first hand experience during their internship enhanced IIV’s quality as an internship provider in Vietnam, and also a close model to professional internships in New York or London. In addition, an emphasis on the “giving back to society” spirit was also put forward. Every intern was required to work on a community project of their own, contributing through volunteerism and leadership.",
-            type: 1,
-            isFirst: true
-          }
-        ]
-      }
-    ]
-  },
-  
+
   pastPrograms : {
     title : "SEO-Vietnam Programs",
     description: {
@@ -625,11 +439,6 @@ pastPrograms : {
       }, {
         title: "Partners",
         link: "/partners",
-        active: false,
-        items: []
-      }, {
-        title: "Past programs",
-        link: "/past-programs",
         active: false,
         items: []
       }, {
@@ -974,6 +783,11 @@ pastPrograms : {
     ]
   },
 
+  mentors: {
+    title: "esteemed mentors for the SEO-Vietnam alumni",
+    description1: "Being an SEO-Vietnam alumni means that you are part of an exclusive network of high-achieving individuals that have successfully completed the SEO program and are making headway in your professional careers. Our group of mentors are here to use their respective experiences and achievements to help nurture and guide you.",
+    
+  },
   donate: {
     title: "Deepen Our Impact",
     description1: "This year, we have the ambitious goal of empowering more young Vietnam’s professionals by providing them with great internships, trainings, and networking opportunities. As we are working hard to expand the program, we now need your help more than ever.",
@@ -993,5 +807,5 @@ pastPrograms : {
     ],
     image: "/assets/images/donate/donate-picture.3e1d4619.jpg",
     video: "https://www.youtube.com/embed/KOO6MdLuUaU"
-  }
+  }  
 };
