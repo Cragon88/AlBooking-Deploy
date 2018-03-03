@@ -9,7 +9,6 @@ var App = {
     about: "About Us",
     partner: "Partners",
     dontate: "Donate",
-    mentor: "Mentor"
   },
 
   button: {
