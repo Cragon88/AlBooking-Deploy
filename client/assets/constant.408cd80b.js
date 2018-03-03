@@ -459,7 +459,7 @@ var App = {
         active: true,
         items: []
       }
-    ],
+    ]
   },
   
   pastPrograms : {
