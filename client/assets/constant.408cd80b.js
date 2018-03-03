@@ -429,7 +429,7 @@ var App = {
     title : "Meet our mentors",
     description: {
       title: "Please meet our esteemed mentors for the SEO-Vietnam alumni",
-      text: "Being an SEO alumni means that you are part of an exclusive network of high-achieving individuals that have successfully completed the SEO program and are making headway in your professional careers. Our group of mentors are here to use their respective experiences and achievements to help nurture and guide you."
+      text: "Being a SEO-Vietnam alumni means that you are part of an exclusive network of high-achieving individuals that have successfully completed the SEO program and are making headway in your professional careers. Our group of mentors are here to use their respective experiences and achievements to help nurture and guide you."
     },
     instruction: "Understand more about our mentors",
     sideBar : [
@@ -459,7 +459,47 @@ var App = {
         active: true,
         items: []
       }
-    ]
+    ],
+    timeline: {
+      title: "SEO-Vietnam through History",
+      chart: [
+        {
+          year: 2009,
+          interns: {count: 5, subfix: "Interns"},
+          companies: {count: 2, subfix: "Companies"}
+        },
+        {
+          year: 2010,
+          interns: {count: 13, subfix: "Interns"},
+          companies: {count: 7, subfix: "Companies"}
+        },
+        {
+          year: 2011,
+          interns: {count: 26, subfix: "Interns"},
+          companies: {count: 13, subfix: "Companies"}
+        },
+        {
+          year: 2012,
+          interns: {count: 27, subfix: "Interns"},
+          companies: {count: 18, subfix: "Companies"}
+        },
+        {
+          year: 2013,
+          interns: {count: 37, subfix: "Interns"},
+          companies: {count: 18, subfix: "Companies"}
+        },
+        {
+          year: 2014,
+          interns: {count: 57, subfix: "Interns"},
+          companies: {count: 28, subfix: "Companies"}
+        },
+        {
+          year: 2015,
+          interns: {count: 66, subfix: "Interns"},
+          companies: {count: 33, subfix: "Companies"}
+        }
+      ]
+    }
   },
   
   pastPrograms : {
