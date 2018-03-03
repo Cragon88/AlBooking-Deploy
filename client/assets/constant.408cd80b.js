@@ -317,6 +317,11 @@ var App = {
         active: false,
         items: []
       }, {
+        title: "Mentors",
+        link: "/partners",
+        active: false,
+        items: []
+      }, {
         title: "Past programs",
         link: "/past-programs",
         active: false,
