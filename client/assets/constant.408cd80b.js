@@ -318,7 +318,7 @@ var App = {
         items: []
       }, {
         title: "Mentors",
-        link: "/partners",
+        link: "/mentors",
         active: false,
         items: []
       }, {
@@ -385,6 +385,11 @@ var App = {
         active: false,
         items: []
       }, {
+        title: "Mentors",
+        link: "/mentors",
+        active: false,
+        items: []
+      }, {
         title: "Past programs",
         link: "/past-programs",
         active: false,
@@ -419,7 +424,44 @@ var App = {
       }
     }
   },
-
+  
+  mentors : {
+    title : "Meet our mentors",
+    description: {
+      title: "Please meet our esteemed mentors for the SEO-Vietnam alumni",
+      text: "Being an SEO alumni means that you are part of an exclusive network of high-achieving individuals that have successfully completed the SEO program and are making headway in your professional careers. Our group of mentors are here to use their respective experiences and achievements to help nurture and guide you."
+    },
+    instruction: "Understand more about our mentors",
+    sideBar : [
+      {
+        title: "Program Overview",
+        link: "/programs",
+        active: false,
+        items: [{title: "Fellowship program", active: false, link: "/programs"}, {title: "Momentum Program", active: false, link: "/momentum-program"}]
+      }, {
+        title: "Apply",
+        link: "/apply",
+        active: false,
+        items: []
+      }, {
+        title: "Partners",
+        link: "/partners",
+        active: false,
+        items: []
+      }, {
+        title: "Mentors",
+        link: "/mentors",
+        active: false,
+        items: []
+      }, {
+        title: "Past programs",
+        link: "/past-programs",
+        active: true,
+        items: []
+      }
+    ],
+  },
+  
   pastPrograms : {
     title : "SEO-Vietnam Programs",
     description: {
@@ -441,6 +483,11 @@ var App = {
       }, {
         title: "Partners",
         link: "/partners",
+        active: false,
+        items: []
+      }, {
+        title: "Mentors",
+        link: "/mentors",
         active: false,
         items: []
       }, {
