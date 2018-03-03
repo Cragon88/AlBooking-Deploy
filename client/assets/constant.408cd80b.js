@@ -8,7 +8,8 @@ var App = {
     pastProgram: "Past Programs",
     about: "About Us",
     partner: "Partners",
-    dontate: "Donate"
+    dontate: "Donate",
+    mentor: "Mentor"
   },
 
   button: {
