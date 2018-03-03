@@ -781,7 +781,7 @@ var App = {
   },
 
   donate: {
-    title: "Deepen Our Impact",
+    title: "Deepen Our Impacts",
     description1: "This year, we have the ambitious goal of empowering more young Vietnam’s professionals by providing them with great internships, trainings, and networking opportunities. As we are working hard to expand the program, we now need your help more than ever.",
     description2: "There are currently 2 ways to make donation to us:",
     description3: "Thank you for your generous support!",
