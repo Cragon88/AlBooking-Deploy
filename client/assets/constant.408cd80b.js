@@ -9,7 +9,7 @@ var App = {
     about: "About Us",
     partner: "Partners",
     dontate: "Donate",
-    mentors: "Mentors"
+    mentor: "Mentor"
   },
 
   button: {
@@ -26,8 +26,7 @@ var App = {
     item2 : {name: "Apply", link: "/apply"},
     item3 : {name: "Programs", link: "/programs"},
     item4 : {name: "Partners", link: "/partners"},
-    item5 : {name: "Mentors", link: "/mentors"},
-    item6 : {name: "Donate", link: "/donate"}
+    item5 : {name: "Donate", link: "/donate"}
   },
 
   pageMenu: {
@@ -36,8 +35,7 @@ var App = {
     item2 : {name: "Apply", link: "/apply"},
     item3 : {name: "Programs", link: "/programs"},
     item4 : {name: "Partners", link: "/partners"},
-    item5 : {name: "Mentors", link: "/mentors"},
-    item6 : {name: "Donate", link: "/donate"}
+    item5 : {name: "Donate", link: "/donate"}
   },
 
   footer: {
@@ -46,8 +44,7 @@ var App = {
     item2 : {name: "Apply.", link: "/apply"},
     item3 : {name: "Programs.", link: "/programs"},
     item4 : {name: "Partners.", link: "/partners"},
-    item5 : {name: "Mentors", link: "/mentors"},
-    item6 : {name: "Donate.", link: "/donate"},
+    item5 : {name: "Donate.", link: "/donate"},
     contact: {
       facebook: "http://facebook.com/seovie",
       linkedin: "https://www.linkedin.com/company/sponsors-for-educational-opportunity---vietnam?trk=mini-profile",
@@ -783,15 +780,10 @@ var App = {
     ]
   },
 
-  mentors: {
-    title: "esteemed mentors for the SEO-Vietnam alumni",
-    description1: "Being an SEO-Vietnam alumni means that you are part of an exclusive network of high-achieving individuals that have successfully completed the SEO program and are making headway in your professional careers. Our group of mentors are here to use their respective experiences and achievements to help nurture and guide you.",
-    
-  },
   donate: {
     title: "Deepen Our Impact",
     description1: "This year, we have the ambitious goal of empowering more young Vietnam’s professionals by providing them with great internships, trainings, and networking opportunities. As we are working hard to expand the program, we now need your help more than ever.",
-    description2: "Now, there are currently 2 ways to make donation to us:",
+    description2: "There are currently 2 ways to make donation to us:",
     description3: "Thank you for your generous support!",
     payment: [
       {
@@ -807,5 +799,5 @@ var App = {
     ],
     image: "/assets/images/donate/donate-picture.3e1d4619.jpg",
     video: "https://www.youtube.com/embed/KOO6MdLuUaU"
-  }  
+  }
 };
